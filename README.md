@@ -6,6 +6,7 @@
     <li>JS</li>
     <li>BOOTSTRAP</li>
     <li>Node JS</li>
+    <li><b>API</b> creations and deployment using MAIL CHIMP</li>
     <li>Express JS</li>
     <li>Mongo DB</li>
     <li>SQL</li>
