@@ -1,0 +1,25 @@
+body {
+  font-family: "Ubuntu"
+}
+
+#title {
+  background-color: #ff4c68;
+
+   color: #fff;
+}
+h1{
+  font-family: "Ubuntu";
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.navbar-brand{
+  font-family:"Ubuntu";
+  font-size: 2.5rem;
+  font-weight:bold;
+}
+
+.container-fluid{
+  padding: :3% 15%;
+
+}

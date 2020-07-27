@@ -1,0 +1,53 @@
+body{
+  background-color: #f6eec9;
+  text-align: center;
+  margin: 0;
+}
+p{
+font-family: 'Poppins', sans-serif;
+}
+h1{
+font-size: 340%;
+font-family: 'Shadows Into Light Two', cursive;
+color: black;
+}
+
+h2{
+font-family: 'Geo', sans-serif;
+font-size: 2rem;
+color: Gunmetal;
+}
+h3{
+  color: black;
+  font-family: 'Poppins', sans-serif;
+}
+.cl1{
+  position: relative;
+  margin-left: 70%;
+
+}
+.cl2 {
+  position: absolute;
+  right: 70%;
+
+
+}
+.sky1{
+  padding-top: 50px;
+}
+
+
+.top-container{
+
+background-color: #f9f6f7;
+position:relative;
+padding-top:;
+
+}
+
+.middle-container{
+
+}
+.bottom-container{
+
+}
