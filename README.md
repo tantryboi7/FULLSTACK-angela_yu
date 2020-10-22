@@ -1,4 +1,4 @@
-<h2> FULL STACK course from angela yu</h2>
+<h2> FULL STACK course</h2>
  <p>full stack course by angela yu taken on udemy,coveres topics<p>
   <ul>
     <li>HTML</li>
